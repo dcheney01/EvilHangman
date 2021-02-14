@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/junit-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/junit-jupiter-api-5.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/junit-jupiter-engine-5.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/opentest4j-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/junit-platform-commons-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/junit-platform-engine-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/junit-platform-launcher-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/EvilHangman/jars/junit-vintage-engine-5.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
